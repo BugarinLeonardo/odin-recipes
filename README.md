@@ -1,0 +1,1 @@
+This is a recipe project to consolidate what has been learned with HTML.
